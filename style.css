@@ -1,0 +1,61 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('fonts/icomoon.eot?w451v5');
+	src:url('fonts/icomoon.eot?#iefixw451v5') format('embedded-opentype'),
+		url('fonts/icomoon.woff?w451v5') format('woff'),
+		url('fonts/icomoon.ttf?w451v5') format('truetype'),
+		url('fonts/icomoon.svg?w451v5#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Fanfiction:before {
+	content: "\e608";
+}
+
+.icon-Profile:before {
+	content: "\e607";
+}
+
+.icon-Facebook:before {
+	content: "\e606";
+}
+
+.icon-3DGlasses:before {
+	content: "\e600";
+}
+
+.icon-Key:before {
+	content: "\e601";
+}
+
+.icon-Gmail:before {
+	content: "\e602";
+}
+
+.icon-Pic:before {
+	content: "\e603";
+}
+
+.icon-Watch:before {
+	content: "\e604";
+}
+
+.icon-Dollar:before {
+	content: "\e605";
+}
+

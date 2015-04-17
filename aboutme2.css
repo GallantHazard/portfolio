@@ -1,0 +1,107 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('fonts/icomoon.eot?-wiig4c');
+	src:url('fonts/icomoon.eot?#iefix-wiig4c') format('embedded-opentype'),
+		url('fonts/icomoon.woff?-wiig4c') format('woff'),
+		url('fonts/icomoon.ttf?-wiig4c') format('truetype'),
+		url('fonts/icomoon.svg?-wiig4c#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-3DGlasses:before {
+	content: "\e600";
+	 display: inline;
+    position: relative;
+}
+
+.icon-Key:before {
+	content: "\e601";
+	 display: inline;
+    position: relative;
+}
+
+.icon-Gmail:before {
+	content: "\e602";
+	 display: inline;
+    position: relative;
+}
+
+.icon-Pic:before {
+	content: "\e603"; 
+	display: inline;
+    position: relative;
+    color: black;
+    font-size: 36px;
+}
+
+.icon-Watch:before {
+	content: "\e604";
+	 display: inline;
+    position: relative;
+}
+
+.icon-Dollar:before {
+	content: "\e605";
+	 display: inline;
+    position: relative;
+}
+
+.icon-Facebook:before {
+    content: "\e606";
+    display: inline;
+    position: relative;
+    color: black;
+    font-size: 36px;
+}
+
+.icon-Profile:before {
+    content: "\e607";
+    display: inline;
+    position: relative;
+    color: black;
+    font-size: 36px;
+}
+
+.icon-Fanfiction:before {
+    content: "\e608";
+    display: inline;
+    position: relative;
+    color: black;
+    font-size: 36px;
+}
+/* Page specific styles */
+
+* {
+	-webkit-box-sizing: border-box; /* Safari 3.0 - 5.0, Chrome 1 - 9, Android 2.1 - 3.x */
+	-moz-box-sizing: border-box;    /* Firefox 1 - 28 */
+	box-sizing: border-box;         /* Safari 5.1+, Chrome 10+, Firefox 29+, Opera 7+, IE 8+, Android 4.0+, iOS any */	
+}
+
+body {
+	text-align: center;
+	font-size: 24px;
+	background-color: red;
+}
+
+a {
+	color: red;
+}
+
+span {
+	padding: 20px;
+}
