@@ -101,3 +101,35 @@ body {
 a {
 	color: red;
 }
+
+<style>
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+
+#section {
+    width:350px;
+    float:left;
+    padding:25px; 
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}
+
+img {
+	width: 350px;
+	padding: 25px;
+	text-align: left;
+}
+
+.img {
+	background: url("Constant Contact state logo vertical color.jpg");
+	background-size: cover;
+}

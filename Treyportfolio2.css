@@ -54,6 +54,8 @@
 	content: "\e604";
 	 display: inline;
     position: relative;
+    color: black;
+    font-size: 36px;
 }
 
 .icon-Dollar:before {
@@ -70,16 +72,19 @@
     font-size: 36px;
 }
 
-.icon-Profile:before {
-    content: "\e607";
+.icon-Profile:before {
+
+    content: "\e607";
     display: inline;
     position: relative;
     color: black;
     font-size: 36px;
 }
 
-.icon-Fanfiction:before {
-    content: "\e608";
+.icon-Fanfiction:before {
+
+    content: "\e608";
+
     display: inline;
     position: relative;
     color: black;
